@@ -2,15 +2,15 @@
 
 This is a list of final year projects ideas I have.
 
-- Automation tool for System administration using **_ansible_**, **_shell scripting_** and **_cron tab_** on Linux
-- Anonymous **_web based_** chat application
-- _*pending_
+- Automation tool for System administration using Ansible, Shell scripting and Crontab on Linux
+- Anonymous Web-based chat application
+- *pending
 
-### Automation tool for System administration using **_ansible_**, **_shell scripting_** and **_cron tab_** on Linux
+### Automation tool for System administration using Ansible, Shell scripting and Crontab on Linux
 
-This can also be called "_using ansible, scripting and crontabs to automate linux administration_".
+This can also be called _"Using Ansible, System Scripting and Crontab to automate Linux administration"_.
 
-Tools to be used include
+Tools to be utilized include:
 - Running linux system
 - Ansible
 - System scripting(bash or python)
@@ -18,7 +18,7 @@ Tools to be used include
 
 This project aims to reduce and automate some task that system administrators perform day to day.
 
-### Anonymous web-based chat app
+### Anonymous Web-based chat app
 
 This project aims to create a web based app that priotizes the _anonymity_ and _privacy_ of its users.
 
