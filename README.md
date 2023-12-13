@@ -1,6 +1,6 @@
 # Project Ideas
 
-This is a list of projects ideas i have.
+This is a list of final year projects ideas I have.
 
 - Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**.
 - Anonymous **_web based_** chat application
@@ -11,8 +11,8 @@ This is a list of projects ideas i have.
 This can also be called "_using ansible, scripting and crontabs to automate linux administration_".
 
 Tools to be used include
-- Running linux system.
-- Ansible.
+- Running linux system
+- Ansible
 - System scripting(bash or python)
 - Crontab
 
