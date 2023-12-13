@@ -1,4 +1,4 @@
-# Project Ideas
+# Final Year Project Ideas
 
 This is a list of final year projects ideas I have.
 
