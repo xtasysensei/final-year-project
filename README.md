@@ -2,11 +2,11 @@
 
 This is a list of final year projects ideas I have.
 
-- Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**
+- Automation tool for System administration using **_ansible_**, **_shell scripting_** and **_cron tab_** on Linux
 - Anonymous **_web based_** chat application
 - _*pending_
 
-### Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**
+### Automation tool for System administration using **_ansible_**, **_shell scripting_** and **_cron tab_** on Linux
 
 This can also be called "_using ansible, scripting and crontabs to automate linux administration_".
 
@@ -28,3 +28,5 @@ Tools to be utilized include:
 - Nextjs
 - Socket.IO
 - React testing library
+
+### *pending
