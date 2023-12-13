@@ -2,9 +2,9 @@
 
 This is a list of final year projects ideas I have.
 
-- Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**.
+- Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**
 - Anonymous **_web based_** chat application
-- 
+- _*pending_
 
 ### Automation tool on linux using **_ansible_**, **_shell scripting_** and **_cron tab_**
 
