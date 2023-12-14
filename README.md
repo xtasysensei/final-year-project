@@ -1,6 +1,6 @@
 # Final Year Project Ideas
 
-This is a list of final year projects ideas I have.
+This is a list of final year college projects ideas.
 
 1. Design and implementation of an Automation tool for System administration using Shell scripting, Ansible and Crontab
 2. Design and implementation of an Anonymous Web-based chat application
