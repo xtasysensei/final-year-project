@@ -1,12 +1,13 @@
 # Final Year Project Ideas
 
-This is a list of final year college projects ideas.
+This is a list of final year projects ideas I have.
 
 1. Design and implementation of an Automation tool for System administration using Shell scripting, Ansible and Crontab
 2. Design and implementation of an Anonymous Web-based chat application
 3. Design and implementation of a Terminal-based Automation service system using Shell Scripting and Crontab Scheduling
 4. Design and implementation of an SQL injection detection and prevention system
 5. Design and implementation of a Web-Based Graphical Password Authentication System to prevent shoulder surfing
+6. Design and implementation of an Anti Cross Site Scripting (XSS) Injection Tool
 
 ### 1.0 Design and implementation of an Automation Tool for System administration using Shell scripting, Ansible and Crontab
 
@@ -26,8 +27,6 @@ Tools to be utilized include:
 
 #### 2.1 Aim
 This project aims to create a web based app that priotizes the _anonymity_ and _privacy_ of its users.
-
-This project aims to design a chat app where one can chat anonymously  and can create unlimited chat rooms
 
 #### 2.2 Tools
 Tools to be utilized include:
@@ -54,21 +53,17 @@ Tools to be utilized include:
 #### 4.1 Aim
 SQL injection detection and prevention system using PHP and MySQL Server. Hashes of various and previously known attacks has been generated and stored. If an SQL injection command is entered, IP will be recorded and user will not be authorized.
 
-This project aims to create a vulnerable website to simulate an SQL injection attack and design an simple SQL injection detection and prevention system using PHP and MySQL Server
-
 #### 4.2 Tools
 Tools to be utilized include:
 - Web server(Nginx or Apache)
 - Php
 - Mysql
-- Linux machine.
+- Linux machine
 
 ### 5.0 Design and implementation of a Web-Based Graphical Password Authentication System to prevent shoulder surfing
 
 #### 5.1 Aim
 Web Based Graphical Password Authentication System is a web based application that can be used in any system to allow users to sign up and log in using a different model other than the static passwords.
-
-This project aims to design a web based application that can be used in any system to allow users to sign up and log in using a different model other than the static passwords.
 
 #### 5.2 Tools
 Tools to be utilized include:
@@ -77,12 +72,23 @@ Tools to be utilized include:
 - Apache Tomcat
 - HTML/Css/Js
 
-<details markdown='1'><summary>6.0 Final verdict
+### 6.0 Design and implementation of an Anti Cross Site Scripting (XSS) Injection Tool
+
+#### 6.1 Aim
+This project aims to create a penetration Testing Tool to help find and counteract cross site scripting vulnerability in websites
+
+#### 6.2 Tools
+Tools to be utilized include:
+- LAMP/LEMP
+- *pending
+
+<details markdown='1'><summary>Final verdict
 </summary>
 
-- [ ] Project 1
-- [x] Project 2 (3)
-- [ ] Project 3
+- [x] Project 1 (6)
+- [x] Project 2 (4)
+- [x] Project 3 (5)
 - [x] Project 4 (1)
-- [x] Project 5 (2)
+- [x] Project 5 (3)
+- [x] Project 6 (2)
 </details>
