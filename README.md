@@ -88,7 +88,7 @@ Tools to be utilized include:
 - [x] Project 1 (6)
 - [x] Project 2 (4)
 - [x] Project 3 (5)
-- [x] Project 4 (1)
+- [x] Project 4 (2)
 - [x] Project 5 (3)
-- [x] Project 6 (2)
+- [x] Project 6 (1)
 </details>
