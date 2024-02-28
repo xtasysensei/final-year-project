@@ -67,9 +67,9 @@ Web Based Graphical Password Authentication System is a web based application th
 
 #### 5.2 Tools
 Tools to be utilized include:
-- PHP
-- Mysql
-- Apache Tomcat
+- Python
+- Flask
+- Doom Emacs :)
 - HTML/Css/Js
 
 ### 6.0 Design and implementation of an Anti Cross Site Scripting (XSS) Injection Tool
@@ -79,7 +79,7 @@ This project aims to create a penetration Testing Tool to help find and countera
 
 #### 6.2 Tools
 Tools to be utilized include:
-- LAMP/LEMP
+- python
 - *pending
 
 <details markdown='1'><summary>Final verdict
